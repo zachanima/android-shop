@@ -3,5 +3,11 @@
 
     <string name="hello">Hello World, ShopActivity!</string>
     <string name="app_name">AndroidShop</string>
+    <string-array name="quantities_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>Custom...</item>
+    </string-array>
 
 </resources>
