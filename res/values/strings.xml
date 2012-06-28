@@ -3,11 +3,12 @@
 
     <string name="hello">Hello World, ShopActivity!</string>
     <string name="app_name">AndroidShop</string>
-    <string-array name="quantities_array">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>More...</item>
+    <string-array name="sites_array">
+        <item>Anomaly</item>
+        <item>Ladar</item>
+        <item>Magnetometric</item>
+        <item>Planetary Interaction</item>
+        <item>Radar</item>
     </string-array>
 
 </resources>
